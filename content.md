@@ -19,7 +19,7 @@ To get started, sign up on [Eleven Labs](https://www.elevenlabs.io/) and navigat
 
 To set up your agent, navigate to your AI Agent dashboard [Dashboard](https://elevenlabs.io/app/conversational-ai/agents)
 
-[image 1]
+![alt text](https://github.com/lightrainstech/custom-ai-agent-blog/blob/master/images/image1.png)
 
 - Select  click on `+` icon, it will provide options with multiple templates to create agent
 - Choose `Blank template` or any other template if you have anything specific in mind
