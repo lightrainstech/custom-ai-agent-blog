@@ -53,7 +53,7 @@ Eleven Labs allows you to use pre-existing voices or train your own model.
 
 ### **Step 4: Customizing Your Agent**
 
-image2
+![alt text](https://github.com/lightrainstech/custom-ai-agent-blog/blob/master/images/image3.png)
 
 Once your agent is created, you can customize key attributes to enhance its performance:
 
