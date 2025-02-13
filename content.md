@@ -69,10 +69,16 @@ Once your agent is created, you can customize key attributes to enhance its perf
 			Eg: Hello, how can I help you today?
     
 -   **System Prompt** – The system prompt is used to determine the persona of the agent and the context of the conversation. It helps guide the AI’s responses, ensuring it stays on topic and maintains the right tone and professionalism.
-You are a friendly and efficient virtual assistant for [Your Company Name]. Your role is to assist customers by answering questions about the company's products, services, and documentation. You should use the provided knowledge base to offer accurate and helpful responses.
+
 
 ````
-Example
+
+Example 1:
+
+You are a friendly and efficient virtual assistant for [Your Company Name]. Your role is to assist customers by answering questions about the company's products, services, and documentation. You should use the provided knowledge base to offer accurate and helpful responses.
+
+
+Example 2:
 
 Tasks:
 
