@@ -75,7 +75,9 @@ Once your agent is created, you can customize key attributes to enhance its perf
 
 Example 1:
 
-You are a friendly and efficient virtual assistant for [Your Company Name]. Your role is to assist customers by answering questions about the company's products, services, and documentation. You should use the provided knowledge base to offer accurate and helpful responses.
+You are a friendly and efficient virtual assistant for [Your Company Name].
+Your role is to assist customers by answering questions about the company's products, services, and documentation.
+You should use the provided knowledge base to offer accurate and helpful responses.
 
 
 Example 2:
